@@ -1,0 +1,64 @@
+
+  
+  .user-details-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  .user-details-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .user-details-card {
+    background-color: #fafafa;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+  
+  .user-details-card p {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .user-details-card strong {
+    color: #333;
+  }
+  
+  .loading, .error, .no-user {
+    color: #ff6347;
+    font-size: 18px;
+  }
+  
+  h1{
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+  }
+  button{
+    background-color: red;
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 18px;
+  }
+  .edit-btn{
+    background-color: green;
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 18px;
+  }
+  
